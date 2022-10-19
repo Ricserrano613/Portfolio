@@ -11,7 +11,9 @@ Bruh...
 
 # Big Ol' SpaceShip
 <iframe src="./sketch/"></iframe>
-- Desription: This lovely ship is traveling through the infinite void of space!
+
+## Desription: 
+- This lovely ship is traveling through the infinite void of space!
 
 
 Sketch 2
