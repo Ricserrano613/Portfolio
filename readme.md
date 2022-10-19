@@ -6,7 +6,7 @@ These are my projects...
 
 Bruh...
 
-[Sketch 1]{project1.md}
+[Sketch 1](./sketch/)
 
 Sketch 2
 
