@@ -17,8 +17,8 @@ Bruh...
 
 ## Sunset
 
-[Sketch 2](./sketch/)
-<iframe src="./sketch/"></iframe>
+[Sketch 2](./sketch2/)
+<iframe src="./sketch2/"></iframe>
 
 ## Description:
 - This is a very lovely sunset requested by a classmate
