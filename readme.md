@@ -16,7 +16,7 @@ Bruh...
 - This lovely ship is traveling through the infinite void of space!
 
 
-[Sketch 2](./sunsetsketch/)
+[Sketch 2](./sketch/)
 <iframe src="./sketch/"></iframe>
 
 ## Description:
